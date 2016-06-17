@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/JbehaveCore/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/JbehaveCore/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/JbehaveCore/lib/freemarker.jar"/>
+	<classpathentry kind="lib" path="/JbehaveCore/lib/jbehave-core-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/JbehaveCore/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="/JbehaveCore/lib/paranamer-2.4.jar"/>
+	<classpathentry kind="lib" path="/JbehaveCore/lib/plexus-utils-1.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
